@@ -1,2 +1,2 @@
-# colorlib-template
+# Le Diner Social
 
