@@ -265,6 +265,7 @@ textarea.form-control {
 
 .half .text, .half .image {
   width: 100%;
+
 }
 
 @media (min-width: 992px) {
@@ -1489,4 +1490,16 @@ textarea.form-control {
 }
 .kon{
   text-align: center;
+}
+
+.kukuk{
+  color: orange;
+}
+
+.lol{
+  height: 400px;
+}
+.lol2{
+  height: 300px;
+  width: 500px;
 }
